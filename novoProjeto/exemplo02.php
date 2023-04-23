@@ -1,5 +1,5 @@
 <form> 
-	<input type="text" name="nome">
+	<input type="text" name="nome1">
 	<input type="date" name="nascimento">
 	<input type="submit" value="OK">
 	
